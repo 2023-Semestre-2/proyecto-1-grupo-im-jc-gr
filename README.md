@@ -34,6 +34,7 @@ Autores y reconocimientos:
 
 Ian Hu Pacheco
 2021062270
+
 Juan Carlos Monsalve Pérez
 2023141521
 
